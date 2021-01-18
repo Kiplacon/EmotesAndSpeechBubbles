@@ -1,0 +1,9 @@
+{
+    "name": "EmotesAndSpeechBubbles",
+    "version": "0.1.0",
+    "title": "Emotes and Speech Bubbles",
+    "author": "Kiplacon",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Make multiplayer communication a bit fancier with player speech bubbles and a basic emote system"
+}

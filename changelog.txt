@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 1/17/21
+  Changes:
+    - Changed wording from "Right Click: Select" to "Right Click: Change"
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 1/17/21
+  Additions:
+    - Emote "Wheel", press middle mouse button to bring up
+    - Left click emote to use it, right click to swap it for a different one.
