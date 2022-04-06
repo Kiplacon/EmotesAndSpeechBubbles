@@ -19,7 +19,7 @@ If you have any ideas for more emotes feel free to drop a suggestion. With an im
 
 - 3D animated emojis: https://giphy.com/emoji
 
-![Imgur](https://i.imgur.com/8PZuucp.gif) ![Imgur](https://i.imgur.com/Rm5EE7L.gif) ![Imgur](https://i.imgur.com/6OzM5gA.gif) ![Imgur](https://i.imgur.com/1vs6RXZ.gif) ![Imgur](https://i.imgur.com/yvF8YpP.gif) ![Imgur](https://i.imgur.com/hPsFrDL.gif) ![Imgur](https://i.imgur.com/eYaSXwc.gif)
+![Imgur](https://i.imgur.com/8PZuucp.gif) ![Imgur](https://i.imgur.com/Rm5EE7L.gif) ![Imgur](https://i.imgur.com/6OzM5gA.gif) ![Imgur](https://i.imgur.com/1vs6RXZ.gif) ![Imgur](https://i.imgur.com/hPsFrDL.gif) ![Imgur](https://i.imgur.com/yvF8YpP.gif) ![Imgur](https://i.imgur.com/eYaSXwc.gif)
 
 - Party Parrot: https://cultofthepartyparrot.com/
 
