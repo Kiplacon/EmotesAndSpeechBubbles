@@ -18,11 +18,19 @@ If you have any ideas for more emotes feel free to drop a suggestion. With an im
 ![Imgur](https://i.imgur.com/8titZh2.gif)
 
 - 3D animated emojis: https://giphy.com/emoji
+
 ![Imgur](https://i.imgur.com/8PZuucp.gif) ![Imgur](https://i.imgur.com/Rm5EE7L.gif) ![Imgur](https://i.imgur.com/6OzM5gA.gif) ![Imgur](https://i.imgur.com/1vs6RXZ.gif) ![Imgur](https://i.imgur.com/yvF8YpP.gif) ![Imgur](https://i.imgur.com/hPsFrDL.gif) ![Imgur](https://i.imgur.com/eYaSXwc.gif)
+
 - Party Parrot: https://cultofthepartyparrot.com/
+
 ![Imgur](https://i.imgur.com/IntiUKI.gif)
+
 - Bear hug: Skype
+
 ![Imgur](https://i.imgur.com/MaINRvO.gif)
+
 - Unknown
+
 ![Imgur](https://i.imgur.com/yc82Ejy.gif) ![Imgur](https://i.imgur.com/fmXTPv5.gif) ![Imgur](https://i.imgur.com/a5UfySO.gif) ![Imgur](https://i.imgur.com/k9upOfW.gif) ![Imgur](https://i.imgur.com/xmyGfuY.gif)
+
 If you know owner of the other gifs I used let me know I just grabbed them off google images
