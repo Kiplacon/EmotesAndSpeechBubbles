@@ -1,4 +1,4 @@
-#Emotes and Speech Bubbles
+# Emotes and Speech Bubbles
 
 Add some fanciness to multiplayer communication with in-game emotes and speech bubbles. Bring up the emote "wheel" with the mouse wheel button to use/swap emotes. Additionally, anything said in chat is displayed in a speech bubble over the player's head. 
 
