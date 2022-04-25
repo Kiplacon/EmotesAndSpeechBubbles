@@ -1,6 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 4/25/22
+  Additions:
+    - Some new emotes recommended by Spazzbot
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 4/4/22
+  Additions:
+    - Speech bubble text color selector, default is same as player color
+    - Emote duration setting
+    - 3 new emotes
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 1/17/21
+  Additions:
+    - GUI size buttons
   Changes:
     - Changed wording from "Right Click: Select" to "Right Click: Change"
 ---------------------------------------------------------------------------------------------------

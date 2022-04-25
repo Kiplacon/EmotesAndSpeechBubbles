@@ -186,7 +186,64 @@ local emotes = {
 	line_length = 5,
 	animation_speed = 0.5,
 	scale = 1.5
-}}
+},
+{
+	type = "animation",
+	name = "emote22",
+	filename = "__EmotesAndSpeechBubbles__/graphics/coggers.png",
+	size = 64,
+	frame_count = 60,
+	line_length = 5,
+	animation_speed = 1
+},
+{
+	type = "animation",
+	name = "emote23",
+	filename = "__EmotesAndSpeechBubbles__/graphics/disco.png",
+	size = {228,128},
+	tint = {1, 1, 1, 0.8},
+	frame_count = 32,
+	line_length = 1,
+	animation_speed = 0.75,
+	shift = {0, 1.5}
+},
+{
+	type = "animation",
+	name = "emote24",
+	filename = "__EmotesAndSpeechBubbles__/graphics/stonks.png",
+	size = {85,64},
+	frame_count = 15,
+	line_length = 5,
+	animation_speed = 0.5
+},
+{
+	type = "animation",
+	name = "emote25",
+	filename = "__EmotesAndSpeechBubbles__/graphics/catbeg.png",
+	size = 64,
+	frame_count = 45,
+	line_length = 5,
+	animation_speed = 0.25
+},
+{
+	type = "animation",
+	name = "emote26",
+	filename = "__EmotesAndSpeechBubbles__/graphics/rockstare.png",
+	size = 64,
+	frame_count = 24,
+	line_length = 6,
+	animation_speed = 0.25
+},
+{
+	type = "animation",
+	name = "emote27",
+	filename = "__EmotesAndSpeechBubbles__/graphics/catglare.png",
+	size = {64,71},
+	frame_count = 71,
+	line_length = 1,
+	animation_speed = 0.5
+},
+}
 
 for each, emote in pairs(emotes) do
 data:extend({
@@ -196,8 +253,19 @@ data:extend({
 		name = emote.name.."sprite",
 		filename = emote.filename,
 		priority = "extra-high",
-		size = emote.size
-	}
+		size = emote.size or math.min(emote.height, emote.width)
+	},
+	{ --------- The hatch recipie ----------
+		type = "recipe",
+		name = "ESB_EmoteCount",
+		enabled = false,
+		hidden = true,
+		energy_required = #emotes+1,
+		ingredients =
+			{
+			},
+		result = "wooden-chest"
+	},
 })
 end
 
